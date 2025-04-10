@@ -11,3 +11,6 @@ ShopEasy, an online retail business, is facing reduced customer engagement and c
 - **High Marketing Expenses:**  Significant investments in marketing campaigns are not yielding returns.
   
 - **Need for Customer Feedback Analysis:** Understanding customer opinions about products and services is crucial for improving engagenment and conversions.
+
+
+### Key Performance Indicators (KPI) :
